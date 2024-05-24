@@ -1,6 +1,6 @@
 ## SS&C Blue Prism / INSCALE (Oct 2023 - Present)
 ### Front-End Web Developer
-As a Frontend Developer at both SS&C Blue Prism and INSCALE, I focus on crafting high-performance web applications using TypeScript and React.js. My dual role has honed my ability to manage multiple projects simultaneously and deliver quality code efficiently.
+As a Frontend Developer at SS&C Blue Prism / INSCALE, I am the front-end developer responsible for the Digital Worker module on the Blue Prism web platform. I use TypeScript and React.js for this. We focus highly on quality code and always seek to use the latest in the world of web development.
 
 ## Aubay (May 2022 - Sep 2023)
 ### Front-End Web Developer
