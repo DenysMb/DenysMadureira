@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denys Madureira</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Denys Madureira</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Throughout my career, I have gained experience as a frontend developer, working with various technologies such as Vue.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/</guid>
+      <description>SS&amp;amp;C Blue Prism / INSCALE (Oct 2023 - Present) #As a Frontend Developer at both SS&amp;amp;C Blue Prism and INSCALE, I focus on crafting high-performance web applications using TypeScript and React.</description>
+    </item>
+  </channel>
+</rss>

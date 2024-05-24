@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Denys Madureira"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "02 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Denys Madureira"
+  image = "images/profile_photo.jpeg"
+  headline = "Front-End Web Developer"
+  # bio = "A little bit about you"
+  links = [
+    { email = "mailto:denysmb@duck.com" },
+    { link = "https://osysprojects.com/" },
+    { github = "https://github.com/DenysMb" },
+    { instagram = "https://instagram.com/DenysMadureira" },
+    { linkedin = "https://linkedin.com/in/denys-barbosa-404b78133/" },
+  ]
